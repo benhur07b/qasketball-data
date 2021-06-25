@@ -1,4 +1,4 @@
-# Qasketbal Data
+# Qasketball Data
 
 ## GeoPackage of dataset used in the Qasketball presentation for QGIS Open Day June 2021
 
